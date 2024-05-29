@@ -14,7 +14,7 @@ void generatePiramyd() {
 
     do
     {
-        height = get_int("Width: "); // Get height by user input
+        height = get_int("Height: "); // Get height by user input
     }
     while (height < 1 || height > 8);
 
