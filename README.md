@@ -1,2 +1,2 @@
 # CS50 Solutions
-This repository contains my solutions for CS50.
+This repository contains my solutions for **CS50**.
